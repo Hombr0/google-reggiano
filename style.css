@@ -191,11 +191,9 @@ h1 {
     font-size: 60px;
     font-family: Reenie Beanie;
 }
-.title {
-    display: inline-block;
-    bottom: 85%;
-}
 
-#immagini {
-    display: initial;
+#link {
+    content: url(./images/logo_piccolo.png);
+    display: inline-block;
+    max-height: 75px;
 }
